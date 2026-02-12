@@ -53,7 +53,11 @@ Fraud cases represent less than 1% of total transactions.
 ## Key Learning Outcomes
 
 *Handling imbalanced datasets
+
 *Applying SMOTE
+
 *Evaluating classification models properly
+
 *Building end-to-end ML pipeline
+
 *Saving and reusing trained models
